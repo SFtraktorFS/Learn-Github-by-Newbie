@@ -13,7 +13,7 @@ git remote add origin https://github.com/SFtraktorFS/Learn-Github-by-Newbie.git
 `
 git commit -am "message" 
 `
-
+โดยต้องใส่ message เข้าไปเพื่อทำให้เราเข้าใจการเปลี่ยนแปลงของเรา
 ## การ push เข้าไปใน Github
 `
 git push origin main 
